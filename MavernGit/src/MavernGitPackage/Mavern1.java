@@ -9,5 +9,10 @@ public class Mavern1 {
 	{
 		System.out.println("Mavern Two Class");
 	}
+	public void mavernThree()
+	{
+		System.out.println("Mavern Three Class");
+	}
+
 
 }
