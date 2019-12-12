@@ -13,6 +13,14 @@ public class Mavern1 {
 	{
 		System.out.println("Mavern Three Class");
 	}
+	public void mavernFour()
+	{
+		System.out.println("Mavern Four Class");
+	}
+	public void mavernDec12()
+	{
+		System.out.println("Mavern Dec 12th Class");
+	}
 
 
 }
